@@ -23,22 +23,22 @@
     "notion-to-md",
     "notion2md"
   ],
-  "author": "Souvik Kar Mahapatra <souvikat001+chitchat@gmail.com>",
+  "author": "dev-traveler",
   "license": "ISC",
   "files": [
     "build/**"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souvikinator/notion-to-md.git"
+    "url": "git+https://github.com/dev-traveler/notion-to-md.git"
   },
   "bugs": {
-    "url": "https://github.com/souvikinator/notion-to-md/issues"
+    "url": "https://github.com/dev-traveler/notion-to-md/issues"
   },
-  "homepage": "https://github.com/souvikinator/notion-to-md#readme",
+  "homepage": "https://github.com/dev-traveler/notion-to-md#readme",
   "description": "convert notion pages, block and list of blocks to markdown (supports nesting)",
   "devDependencies": {
-    "@notionhq/client": "^1.0.1",
+    "@notionhq/client": "^2.2.15",
     "@types/jest": "^27.4.1",
     "@types/markdown-table": "^2.0.0",
     "jest": "^27.4.7",
