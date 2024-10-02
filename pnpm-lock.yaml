@@ -24,6 +24,9 @@ importers:
       '@types/markdown-table':
         specifier: ^2.0.0
         version: 2.0.0
+      '@types/node-fetch':
+        specifier: ^2.6.11
+        version: 2.6.11
       jest:
         specifier: ^27.4.7
         version: 27.5.1
